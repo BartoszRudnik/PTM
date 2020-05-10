@@ -83,7 +83,7 @@ nextchar:	clr a
 
 // program glówny
 	start:	mov dptr, #1000H
-			mov a, #9
+			mov a, #255
 						
 	dziel:	mov b, #10	
 			div ab
