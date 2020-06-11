@@ -1,1 +1,1 @@
-# PTM -> Podstawy Techniki Mikroprocesorowej
+# PTM 
